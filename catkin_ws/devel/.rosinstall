@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ray/lidar_camera_calibration/catkin_ws/devel/setup.sh
